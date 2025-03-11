@@ -155,10 +155,3 @@ python manage.py runserver
 
 ![Booking Time Slot](website-screenshots/Booking.png)
 
-## Confirmation Mail
-
-![Confirmation Mail](website-screenshots/mail.JPG)
-
-## Video Call
-
-![Video Call](website-screenshots/Videocall.png)
